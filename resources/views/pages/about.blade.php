@@ -1,18 +1,10 @@
 @extends('layouts.default')
 @section('content')
-<html lang="en">
+    <br><br><br>
+<h3>Hello. Welcome to my About Me Page</h3>
 
-<h1>Hello. Welcome to About Page</h1>
+<p>This is my about me page. There will be more content added at a later date</p>
 
-<p>This is my about page</p>
 
 
 @stop
-
-
-
-
-
-
-
-</html>
